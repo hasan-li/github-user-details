@@ -1,0 +1,26 @@
+.user {
+  display: flex;
+  margin: 20px;
+  border-bottom: 1px solid #cccccc;
+  padding: 10px;
+  align-items: center;
+}
+
+.avatar {
+  width: 80px;
+  flex: 1;
+  border-radius: 70px;
+}
+
+.description {
+  flex: 5;
+  padding: 10px;
+}
+
+.description .login {
+  padding: 10px;
+}
+
+.description .details {
+  padding: 10px;
+}
